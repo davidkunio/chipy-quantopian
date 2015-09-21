@@ -1,5 +1,4 @@
 # Quantopian
-Presented at Chipy
 
 ## Files:
 
@@ -10,7 +9,8 @@ Presented at Chipy
   
 ## Purpose:
 These files were prepared for the Chipy Finance Special Interest Group
+
 Presented Sept 21st 2015
 
-
+This group is a sub-group for Chipy (Chicago Python Users Group). The presentation contains a brief overview of Quantopian, some information about developing in the IDE and building a basic strategy.
 
